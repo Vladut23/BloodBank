@@ -1,0 +1,114 @@
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.LoginForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.LoginForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\Utente\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.MainForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOspedaleForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonazioneForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOrdineForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoDonatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoOspedaleForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonazioneForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOspedaleForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOperatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOperatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOrdineForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm1.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm2.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonatoreForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonatoreForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonazioneForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOperatoreForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOrdineForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOspedaleForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.MainForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm2.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm1.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonazioneForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOperatoreForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOrdineForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOspedaleForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoDonatoreForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoOspedaleForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonazioneForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOrdineForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOspedaleForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOperatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonazioneForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOperatoreForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOrdineForm.resources
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOspedaleForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonatoreForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonazioneForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOperatoreForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOrdineForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOspedaleForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonatoreForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonazioneForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOperatoreForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOrdineForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOspedaleForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.LoginForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.MainForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm2.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm1.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonazioneForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOperatoreForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOrdineForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOspedaleForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoDonatoreForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoOspedaleForm.resources
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\Utente\Desktop\cose lory\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonatoreForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaDonazioneForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOperatoreForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOrdineForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.EliminaOspedaleForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonatoreForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoDonazioneForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOperatoreForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOrdineForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoOspedaleForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.LoginForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.MainForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm2.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonatoreForm1.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaDonazioneForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOperatoreForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOrdineForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.ModificaOspedaleForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoDonatoreForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoOspedaleForm.resources
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\Vladut\Downloads\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\Utente\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.InserimentoEventoSospensivoForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.RiepilogoDisponibilitaSaccheForm.resources
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+C:\Users\Vladut\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.View.ListaAttesaForm.resources

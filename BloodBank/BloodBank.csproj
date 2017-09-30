@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8407AD0E-1502-4D87-8341-9286E67A299E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BloodBank</RootNamespace>
+    <AssemblyName>BloodBank</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\CriterioDiSospensioneFactory.cs" />
+    <Compile Include="Model\Donatore.cs" />
+    <Compile Include="Model\Donazione.cs" />
+    <Compile Include="Model\EventoSospensivo.cs" />
+    <Compile Include="Model\FattoreRh.cs" />
+    <Compile Include="Model\Gruppo0.cs" />
+    <Compile Include="Model\GruppoA.cs" />
+    <Compile Include="Model\GruppoAB.cs" />
+    <Compile Include="Model\GruppoB.cs" />
+    <Compile Include="Model\GruppoSanguigno.cs" />
+    <Compile Include="Model\GruppoSanguignoFactory.cs" />
+    <Compile Include="Model\ICriterioDiSospensione.cs" />
+    <Compile Include="Model\IndicePriorita.cs" />
+    <Compile Include="Model\Indirizzo.cs" />
+    <Compile Include="Model\ListaAttesa.cs" />
+    <Compile Include="Model\Modello.cs" />
+    <Compile Include="Model\Operatore.cs" />
+    <Compile Include="Model\Ordine.cs" />
+    <Compile Include="Model\Ospedale.cs" />
+    <Compile Include="Model\Permanente.cs" />
+    <Compile Include="Model\QuattroMesi.cs" />
+    <Compile Include="Model\Responsabile.cs" />
+    <Compile Include="Model\SaccaContenitrice.cs" />
+    <Compile Include="Model\SaccaContenitriceFactory.cs" />
+    <Compile Include="Model\SaccaPiastrine.cs" />
+    <Compile Include="Model\SaccaPlasma.cs" />
+    <Compile Include="Model\SaccaSangue.cs" />
+    <Compile Include="Model\SeiMesi.cs" />
+    <Compile Include="Model\Tipologia.cs" />
+    <Compile Include="Model\UnAnno.cs" />
+    <Compile Include="Model\UnMese.cs" />
+    <Compile Include="Persistence\IPersistence.cs" />
+    <Compile Include="Persistence\Persistenza.cs" />
+    <Compile Include="Presenter\EliminaDonatorePresenter.cs" />
+    <Compile Include="Presenter\EliminaDonazionePresenter.cs" />
+    <Compile Include="Presenter\EliminaOperatorePresenter.cs" />
+    <Compile Include="Presenter\EliminaOrdinePresenter.cs" />
+    <Compile Include="Presenter\EliminaOspedalePresenter.cs" />
+    <Compile Include="Presenter\InserimentoDonatorePresenter.cs" />
+    <Compile Include="Presenter\InserimentoDonazionePresenter.cs" />
+    <Compile Include="Presenter\InserimentoEventoSospensivoPresenter.cs" />
+    <Compile Include="Presenter\InserimentoOperatorePresenter.cs" />
+    <Compile Include="Presenter\InserimentoOrdinePresenter.cs" />
+    <Compile Include="Presenter\InserimentoOspedalePresenter.cs" />
+    <Compile Include="Presenter\ListaAttesaPresenter.cs" />
+    <Compile Include="Presenter\LoginPresenter.cs" />
+    <Compile Include="Presenter\MainFormPresenter.cs" />
+    <Compile Include="Presenter\ModificaDonatore1Presenter.cs" />
+    <Compile Include="Presenter\ModificaDonatore2Presenter.cs" />
+    <Compile Include="Presenter\ModificaDonazionePresenter.cs" />
+    <Compile Include="Presenter\ModificaOperatorePresenter.cs" />
+    <Compile Include="Presenter\ModificaOrdinePresenter.cs" />
+    <Compile Include="Presenter\ModificaOspedalePresenter.cs" />
+    <Compile Include="Presenter\Presenter.cs" />
+    <Compile Include="Presenter\RiepilogoDisponibilitaSacchePresenter.cs" />
+    <Compile Include="Presenter\RiepilogoDonatorePresenter.cs" />
+    <Compile Include="Presenter\RiepilogoOspedalePresenter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\EliminaDonatoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EliminaDonatoreForm.Designer.cs">
+      <DependentUpon>EliminaDonatoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EliminaDonazioneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EliminaDonazioneForm.Designer.cs">
+      <DependentUpon>EliminaDonazioneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EliminaOperatoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EliminaOperatoreForm.Designer.cs">
+      <DependentUpon>EliminaOperatoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EliminaOrdineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EliminaOrdineForm.Designer.cs">
+      <DependentUpon>EliminaOrdineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EliminaOspedaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EliminaOspedaleForm.Designer.cs">
+      <DependentUpon>EliminaOspedaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InserimentoDonatoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InserimentoDonatoreForm.Designer.cs">
+      <DependentUpon>InserimentoDonatoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InserimentoDonazioneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InserimentoDonazioneForm.Designer.cs">
+      <DependentUpon>InserimentoDonazioneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InserimentoEventoSospensivoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InserimentoEventoSospensivoForm.Designer.cs">
+      <DependentUpon>InserimentoEventoSospensivoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InserimentoOperatoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InserimentoOperatoreForm.Designer.cs">
+      <DependentUpon>InserimentoOperatoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InserimentoOrdineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InserimentoOrdineForm.Designer.cs">
+      <DependentUpon>InserimentoOrdineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InserimentoOspedaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InserimentoOspedaleForm.Designer.cs">
+      <DependentUpon>InserimentoOspedaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ListaAttesaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ListaAttesaForm.Designer.cs">
+      <DependentUpon>ListaAttesaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ModificaDonatoreForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ModificaDonatoreForm2.Designer.cs">
+      <DependentUpon>ModificaDonatoreForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ModificaDonatoreForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ModificaDonatoreForm1.Designer.cs">
+      <DependentUpon>ModificaDonatoreForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ModificaDonazioneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ModificaDonazioneForm.Designer.cs">
+      <DependentUpon>ModificaDonazioneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ModificaOperatoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ModificaOperatoreForm.Designer.cs">
+      <DependentUpon>ModificaOperatoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ModificaOrdineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ModificaOrdineForm.Designer.cs">
+      <DependentUpon>ModificaOrdineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ModificaOspedaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ModificaOspedaleForm.Designer.cs">
+      <DependentUpon>ModificaOspedaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RiepilogoDisponibilitaSaccheForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RiepilogoDisponibilitaSaccheForm.Designer.cs">
+      <DependentUpon>RiepilogoDisponibilitaSaccheForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RiepilogoDonatoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RiepilogoDonatoreForm.Designer.cs">
+      <DependentUpon>RiepilogoDonatoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RiepilogoOspedaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RiepilogoOspedaleForm.Designer.cs">
+      <DependentUpon>RiepilogoOspedaleForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\EliminaDonatoreForm.resx">
+      <DependentUpon>EliminaDonatoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EliminaDonazioneForm.resx">
+      <DependentUpon>EliminaDonazioneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EliminaOperatoreForm.resx">
+      <DependentUpon>EliminaOperatoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EliminaOrdineForm.resx">
+      <DependentUpon>EliminaOrdineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EliminaOspedaleForm.resx">
+      <DependentUpon>EliminaOspedaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InserimentoDonatoreForm.resx">
+      <DependentUpon>InserimentoDonatoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InserimentoDonazioneForm.resx">
+      <DependentUpon>InserimentoDonazioneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InserimentoEventoSospensivoForm.resx">
+      <DependentUpon>InserimentoEventoSospensivoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InserimentoOperatoreForm.resx">
+      <DependentUpon>InserimentoOperatoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InserimentoOrdineForm.resx">
+      <DependentUpon>InserimentoOrdineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InserimentoOspedaleForm.resx">
+      <DependentUpon>InserimentoOspedaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ListaAttesaForm.resx">
+      <DependentUpon>ListaAttesaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ModificaDonatoreForm2.resx">
+      <DependentUpon>ModificaDonatoreForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ModificaDonatoreForm1.resx">
+      <DependentUpon>ModificaDonatoreForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ModificaDonazioneForm.resx">
+      <DependentUpon>ModificaDonazioneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ModificaOperatoreForm.resx">
+      <DependentUpon>ModificaOperatoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ModificaOrdineForm.resx">
+      <DependentUpon>ModificaOrdineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ModificaOspedaleForm.resx">
+      <DependentUpon>ModificaOspedaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RiepilogoDisponibilitaSaccheForm.resx">
+      <DependentUpon>RiepilogoDisponibilitaSaccheForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RiepilogoDonatoreForm.resx">
+      <DependentUpon>RiepilogoDonatoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RiepilogoOspedaleForm.resx">
+      <DependentUpon>RiepilogoOspedaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
